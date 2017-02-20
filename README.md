@@ -11,5 +11,5 @@ Phase correlation using multiple SDRs
 Inducing a 'North'-phased signal into the sample using some RF magic, and an OperaCake
 
 # Tools
-* (Dual stream graphing utility)[decode_remote_dual_stream.py]
+* [Dual stream graphing utility](decode_remote_dual_stream.py)
 
